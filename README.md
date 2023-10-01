@@ -51,7 +51,7 @@ $$a\cos{\theta_2} + b\cos{\theta_3} - c\cos{\theta_4} - d = 0$$
 
 $$a\sin{\theta_2} + b\sin{\theta_3} - c\sin{\theta_4} = 0$$
 
-Due to the angles are related with trigonometric functions, Newton-Raphson method is used to solve the equations.
+Due to the angles are related with trigonometric functions, Newton-Raphson method is used for solving the equations.
 
 <img src = "https://github.com/alejo1630/4bar_mechanism/blob/main/example.gif" width = "500">
 
